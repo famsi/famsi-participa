@@ -1,0 +1,4 @@
+
+DATABASE_URL: postgres://decidim_app:7t2OCuWM@localhost/decidim_prod
+SECRET_KEY_BASE: c656f8aa8a00d6bd3cd896c2dee8ce8f6bff25abb74b6fe0632d05a13c9ff4173e08f53590ee5eae4a78233859f5f97f8bff8c8b34d963b059b8ac5afa067bee
+
